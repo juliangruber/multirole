@@ -13,11 +13,11 @@
   },
   "dependencies": {
     "role": "~1.1.1",
-    "multilevel": "~5.5.0",
-    "level": "~0.15.0",
-    "concat-stream": "~1.0.1",
+    "multilevel": "~7.3.0",
+    "level": "~1.5.0",
+    "concat-stream": "~1.5.2",
     "engine.io-stream": "~0.4.1",
-    "browserify": "~2.29.1"
+    "browserify": "~13.1.1"
   },
   "devDependencies": {
     "tape": "*"
