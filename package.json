@@ -15,7 +15,7 @@
     "role": "~1.1.1",
     "multilevel": "~7.3.0",
     "level": "~1.5.0",
-    "concat-stream": "~1.5.2",
+    "concat-stream": "~1.6.0",
     "engine.io-stream": "~0.4.1",
     "browserify": "~13.2.0"
   },
